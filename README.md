@@ -8,7 +8,7 @@
 <p>
   Hello, I'm Vitor🧬! A passionate Chemistry student and low-level programmer from Brazil.
 
-  - 🌱 I’m currently...
+  - 🔖 In this profile, I will teach everything I know, gathering resources from various books/videos/websites and writing a summary of how to do these things (Of course, I will give proper credits once I finish the repositories).
 
 </p>
 
@@ -21,6 +21,8 @@
   - 💬 I am 17 years old, currently living in Brazil. I have fluency in English and have experience with shell, assembly and C.
 
   - ⚡ I enjoy debugging games, as well as watching movies and study! \o/
+    
+  - 🌱 I'm currently studying to become a Chemical Technician at the Federal Institute of Rondônia (IFRO).
 
 
 <div align="center">
@@ -67,8 +69,8 @@
 
 ###
 
-<!-- Portfolio -->
-## Portfolio:
+<!-- Courses -->
+## Courses:
 - [Linux Networks](https://github.com/v1tofxk/Linux-Networks)
 - [Linux kernel programming](https://github.com/v1tofxk/Linux-kernel-programming)
 - [Hardware hacking](.)
