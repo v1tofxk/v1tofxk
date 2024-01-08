@@ -69,8 +69,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Linux Networks](.)
-- [Linux kernel programming](.)
+- [Linux Networks](https://github.com/v1tofxk/Linux-Networks)
+- [Linux kernel programming](https://github.com/v1tofxk/Linux-kernel-programming)
 - [Hardware hacking](.)
 - [Assembly](.)
 - [Write a programming language compiler](.)
