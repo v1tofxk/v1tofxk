@@ -78,4 +78,4 @@
 - [Hardware hacking](.)
 - [Assembly](.)
 - [Write a programming language compiler](.)
-- [Python chemistry projects](.)
+- [Computational Chemistry](.)
