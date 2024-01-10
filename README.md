@@ -78,5 +78,5 @@
 - [Hardware hacking](.)
 - [Assembly](.)
 - [Write a programming language compiler](.)
-- [Computational Chemistry](.)
+- [Computational Chemistry](https://github.com/v1tofxk/Computational-Chemistry)
 - [Machine Learning Basics](https://github.com/v1tofxk/Machine-Learning-Basics)
