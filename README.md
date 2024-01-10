@@ -79,3 +79,4 @@
 - [Assembly](.)
 - [Write a programming language compiler](.)
 - [Computational Chemistry](.)
+- [Machine Learning Basics](https://github.com/v1tofxk/Machine-Learning-Basics)
